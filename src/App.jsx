@@ -9,7 +9,7 @@ function App() {
   return (
     <>
       <div>
-        UN CLASSIC
+        UN CLASSIC INVRAISEMBLABLE
       </div>
     </>
   )
